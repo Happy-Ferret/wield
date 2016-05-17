@@ -1,0 +1,24 @@
+{
+  "name": "wield",
+  "version": "0.0.1",
+  "description": "Wield simple non-monads with yield.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stasm/wield.git"
+  },
+  "keywords": [
+    "generators",
+    "fp",
+    "monads"
+  ],
+  "author": "Staś Małolepszy <stas@mozilla.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stasm/wield/issues"
+  },
+  "homepage": "https://github.com/stasm/wield#readme",
+  "engine": {
+    "node": ">=6"
+  }
+}
